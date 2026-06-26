@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://fathimzia.github.io/shimmers-with-hook/sitemap.xml
+Disallow: /admin/
+Disallow: /private/
